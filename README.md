@@ -2,7 +2,7 @@
 
 ![preview](/.github/preview.png)
 
-> Terceiro desafio do curso Explorer da Rocketseat. Feito com HTML e CSS.
+> 3º desafio sobre formulários do curso Explorer da Rocketseat. Feito com HTML e CSS.
 
 ## Github Pages
 [🔗 Clique aqui para acessar](https://jhessfrois.github.io/formulario-evento/)
